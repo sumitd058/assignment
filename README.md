@@ -43,4 +43,4 @@ use any library to perform this task.
 - The `blinkLED` function toggles the LED state and sets the timer interval for the next LED state change.
 
 ## Author
-- Sum
+- Sumit dubey
