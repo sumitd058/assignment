@@ -12,9 +12,9 @@ use any library to perform this task.
 
 ******************************************************************************************************************************************************************************************************
 # Components Required
-1.Arduino Uno
-2.LM35 Temperature Sensor
-3.Jumper Wires
+## Arduino Uno
+## LM35 Temperature Sensor
+## Jumper Wires
 
 # Circuit Wiring
 1.Connect the LM35 sensor's output to Arduino's Analog Pin A0.
